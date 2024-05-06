@@ -1,8 +1,10 @@
 [package]
-name = "tutorial10-timer"
+name = "tutorial10_timer"
 version = "0.1.0"
+authors = ["Mahartha Gemilang"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+futures = "0.3"
